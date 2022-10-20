@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="VIP US: Smithsonian Channel" tvg-logo="" group-title="Live: USA",VIP US: Smithsonian Channel
+http://springtube.me:8080/u8hrGnENYdUq/mBYFfDx/22861
+#EXTINF:-1 tvg-ID="smithsonian.ca" tvg-name="VIP CAN: SMITHSONIAN" tvg-logo="[" group-title="Live: Canada",VIP CAN: SMITHSONIAN
+http://springtube.me:8080/u8hrGnENYdUq/mBYFfDx/22708
